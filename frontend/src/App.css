@@ -36,3 +36,17 @@
     transform: rotate(360deg);
   }
 }
+
+/* global styles */
+
+body {
+  margin: 20px;
+  padding: 20px;
+  background: linear-gradient(90deg, #f79533, #f37055, #ef4e7b, #a166ab, #5073b8, #1098ad, #07b39b, #6fba82);
+}
+
+h1 {
+  font-size: 30px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
